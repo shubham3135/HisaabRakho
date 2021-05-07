@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#732fc7</color>
+    <color name="colorPrimaryDark">#3d0095</color>
+    <color name="colorAccent">#6103EE</color>
+    <color name="colorAccentDark">#0000ba</color>
+
+    <color name="colorRipple">#A1887F</color>
+    <color name="colorRippleDelete">#ef9a9a</color>
+    <color name="colorText">#424242</color>
+    <color name="circleAvatar">#d5c3ee</color>
+    <color name="profileBackground">#EFE5FD</color>
+    <color name="contactImgBackground">#824dcb</color>
+    <color name="addContact">#692AC1</color>
+
+    <color name="colorPrimaryGave">#F44336</color>
+    <color name="colorPrimaryDarkGave">#ba000d</color>
+    <color name="colorAccentGave">#ffebee</color>
+
+    <color name="colorPrimaryGot">#26ab1c</color>
+    <color name="colorPrimaryDarkGot">#007a00</color>
+    <color name="colorAccentGot">#e2fcea</color>
+
+    <color name="entryBackground">#FAFAFA</color>
+    <color name="mainBackground">#EEE6F7</color>
+    <color name="alreadyAddedTextColor">#757575</color>
+
+    <color name="bottomSheetTextColor">#A30F71</color>
+    <color name="bottomSheetButtonColor">#880E4F</color>
+    <color name="smsBottomSheetButtonColor">#C51162</color>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorText</item>
+
+        <item name="android:colorControlHighlight">@color/colorRipple</item>
+        <item name="colorControlActivated">@color/black</item>
+
+        &lt;!&ndash;Enable window content transition&ndash;&gt;
+        &lt;!&ndash;<item name="android:windowContentTransitions">true</item>&ndash;&gt;
+    </style>-->
+
+    <!--<style name="AppTheme.Gave" parent="AppTheme">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimaryGave</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGave</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="drawableTint">@color/colorPrimaryGave</item>
+
+        <item name="colorControlActivated">@color/colorPrimaryGave</item>
+
+        &lt;!&ndash;Enable window content transition&ndash;&gt;
+        &lt;!&ndash;<item name="android:windowContentTransitions">true</item>&ndash;&gt;
+    </style>
+
+    <style name="AppTheme.Got" parent="AppTheme">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+        <item name="colorPrimary">@color/colorPrimaryGot</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGot</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="drawableTint">@color/colorPrimaryGot</item>
+
+        <item name="colorControlActivated">@color/colorPrimaryGot</item>
+
+        &lt;!&ndash;Enable window content transition&ndash;&gt;
+        &lt;!&ndash;<item name="android:windowContentTransitions">true</item>&ndash;&gt;
+    </style>-->
+
+    <style name="BottomSheetTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="GaveButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/colorPrimaryGave</item>
+        <item name="elevation">8dp</item>
+    </style>
+
+    <style name="GotButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/colorPrimaryGot</item>
+        <item name="elevation">8dp</item>
+    </style>
+
+    <style name="ButtonBorder" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="android:textColor">@color/colorPrimaryGave</item>
+        <item name="drawableTint">@color/colorPrimaryGave</item>
+        <item name="strokeColor">@color/colorPrimaryGave</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="rippleColor">@color/colorRippleDelete</item>
+        <item name="icon">@drawable/ic_delete</item>
+        <item name="iconTint">@color/colorPrimaryGave</item>
+        <item name="iconPadding">10dp</item>
+        <item name="iconGravity">textStart</item>
+    </style>
+
+</resources>

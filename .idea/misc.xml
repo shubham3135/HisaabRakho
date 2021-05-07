@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_calendar.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_calendar_got.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_call.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_call_dark.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_contact.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_drop.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_drop_got.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_location.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_person.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-anydpi/ic_right_arrow.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-hdpi/ic_call_light.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/button_background.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/contact_img.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/custom_ripple_border.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/edit_text_border.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_calendar.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_call.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_delete.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_drop.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_launcher_background.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_save.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/ic_search.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/img_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/rounded_dialog.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/splash_name.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/drawable/splash_screen.xml" value="0.162109375" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout-v23/activity_gave.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_contact.xml" value="0.25" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_customer_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_entry.xml" value="0.18" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_gave.xml" value="0.25" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_got.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_hisab_detail.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_splash.xml" value="0.15" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/activity_transaction.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/app_bar_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/contact_items.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/custom_transaction_bar.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/customer_items.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/delete_bottom_sheet_layout.xml" value="0.15" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/delete_entry_bottom_sheet.xml" value="0.15" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/profile_bottom_sheet.xml" value="0.22" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/send_sms_bottom_sheet_layout.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/transaction_bar_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/layout/transaction_detail.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/menu-v26/transaction_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/menu/transaction_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Shubham/AndroidStudioProjects/HisaabRakho/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

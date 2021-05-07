@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="?android:selectableItemBackground"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="13dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/contact_title"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:text="S"
+            android:textAlignment="center"
+            android:textSize="26sp"
+            android:textColor="@color/white"
+            android:background="@drawable/contact_img"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:orientation="vertical"
+            android:padding="3dp">
+            <TextView
+                android:id="@+id/contact_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:singleLine="true"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="Shubham"/>
+            <TextView
+                android:id="@+id/contact_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="13sp"
+                android:alpha="0.8"
+                android:text="7900148057"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/already_customer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="@color/alreadyAddedTextColor"
+            android:alpha="0.5"
+            android:visibility="invisible"
+            android:text="Already Added"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@android:color/darker_gray"
+        android:alpha="0.3"/>
+
+</LinearLayout>
