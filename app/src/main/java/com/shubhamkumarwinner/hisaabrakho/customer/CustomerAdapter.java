@@ -55,12 +55,7 @@ public class CustomerAdapter extends RecyclerView.Adapter<CustomerAdapter.Custom
             holder.textViewGiveTake.setText("");
         }
 
-        holder.itemView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                clickListener.itemClick(customer,holder.titleTextView, holder.nameTextView);
-            }
-        });
+        holder.itemView.setOnClickListener(v -> clickListener.itemClick(customer,holder.titleTextView, holder.nameTextView));
     }
 
     public void setCustomers(List<Customer> customers){

@@ -12,7 +12,6 @@ import com.shubhamkumarwinner.hisaabrakho.database.tables.Customer;
 import com.shubhamkumarwinner.hisaabrakho.database.tables.CustomerTransaction;
 import com.shubhamkumarwinner.hisaabrakho.database.tables.MyProfile;
 
-import java.util.Date;
 import java.util.List;
 
 @Dao

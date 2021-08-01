@@ -67,37 +67,34 @@ public class CustomerProfileActivity extends AppCompatActivity {
         profileName.setText(name);
 
         setUpViewModel();
-        btnDelete.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                BottomSheetDialog bottomSheetDialog = new BottomSheetDialog(
-                        CustomerProfileActivity.this, R.style.BottomSheetTheme);
-                View bottomSheetView = LayoutInflater.from(getApplicationContext())
-                        .inflate(R.layout.delete_bottom_sheet_layout,
-                                (LinearLayout)findViewById(R.id.bottomSheetDeleteContainer));
-                bottomSheetView.findViewById(R.id.delete_cancel_btn).setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        bottomSheetDialog.dismiss();
-                    }
-                });
-                bottomSheetView.findViewById(R.id.delete_confirm_btn).setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        // here some changes
-                        Customer customer = new Customer(name, number, Calendar.getInstance().getTimeInMillis(), 5);
-                        mCustomerViewModel.deleteCustomer(customer);
-                        mTransactionViewModel.deleteAllTransactions(database, number);
-                        Toast.makeText(CustomerProfileActivity.this, "Your customer has been deleted successfully", Toast.LENGTH_SHORT).show();
-                        Intent mainIntent = new Intent(CustomerProfileActivity.this, MainActivity.class);
-                        startActivity(mainIntent, bundle);
-                        finishAffinity();
-                    }
-                });
-                bottomSheetDialog.setContentView(bottomSheetView);
-                bottomSheetDialog.setCanceledOnTouchOutside(false);
-                bottomSheetDialog.show();
-            }
+        btnDelete.setOnClickListener(v -> {
+            BottomSheetDialog bottomSheetDialog = new BottomSheetDialog(
+                    CustomerProfileActivity.this, R.style.BottomSheetTheme);
+            View bottomSheetView = LayoutInflater.from(getApplicationContext())
+                    .inflate(R.layout.delete_bottom_sheet_layout,
+                            (LinearLayout)findViewById(R.id.bottomSheetDeleteContainer));
+            bottomSheetView.findViewById(R.id.delete_cancel_btn).setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    bottomSheetDialog.dismiss();
+                }
+            });
+            bottomSheetView.findViewById(R.id.delete_confirm_btn).setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    // here some changes
+                    Customer customer = new Customer(name, number, Calendar.getInstance().getTimeInMillis(), 5);
+                    mCustomerViewModel.deleteCustomer(customer);
+                    mTransactionViewModel.deleteAllTransactions(database, number);
+                    Toast.makeText(CustomerProfileActivity.this, "Your customer has been deleted successfully", Toast.LENGTH_SHORT).show();
+                    Intent mainIntent = new Intent(CustomerProfileActivity.this, MainActivity.class);
+                    startActivity(mainIntent, bundle);
+                    finishAffinity();
+                }
+            });
+            bottomSheetDialog.setContentView(bottomSheetView);
+            bottomSheetDialog.setCanceledOnTouchOutside(false);
+            bottomSheetDialog.show();
         });
     }
 

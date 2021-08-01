@@ -1,0 +1,42 @@
+
+l	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ãèèşÿÿÿÿ
+=
+java:S1604t"(Make this anonymous inner class a lambda(ı‰<
+?
+java:S1604“"(Make this anonymous inner class a lambda(Óˆ”È
+D
+java:S1604«"(Make this anonymous inner class a lambda(±ÙÄêşÿÿÿÿ
+?
+java:S1604³"(Make this anonymous inner class a lambda(ü×æ‚
+>
+java:S1604{"(Make this anonymous inner class a lambda(×úÎ±
+l
+java:S14503"VRemove the "btnGave" field and declare it as a local variable in the relevant methods.(ùåü
+l
+java:S1450:"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+>
+java:S1659;"(Declare "amountGave" on a separate line.(÷„ëı
+8
+java:S1659;""Declare "name" on a separate line.(÷„ëı
+7
+java:S1659;"!Declare "sms" on a separate line.(÷„ëı
+A
+java:S1659;"+Declare "myProfileName" on a separate line.(÷„ëı
+<
+java:S1659<"!Declare "bal" on a separate line.(ı¨î©şÿÿÿÿ
+;
+java:S1659<" Declare "id" on a separate line.(ı¨î©şÿÿÿÿ
+B
+java:S1659<"'Declare "gaveMoney" on a separate line.(ı¨î©şÿÿÿÿ
+A
+java:S1659<"&Declare "gotMoney" on a separate line.(ı¨î©şÿÿÿÿ
+G
+java:S1659<",Declare "runningBalance" on a separate line.(ı¨î©şÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(‹½½Ìúÿÿÿÿ
+F
+java:S1874S"0Remove this use of "getColor"; it is deprecated.(Í·û—
+h
+java:S3252€"LUse static access with "android.content.Context" for "INPUT_METHOD_SERVICE".(‚Â¥ûÿÿÿÿ
+
+java:S3252„"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(ó´®ã
+W	java:S125"<This block of commented-out lines of code should be removed.(—Ÿıÿÿÿÿ

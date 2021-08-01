@@ -1,0 +1,37 @@
+
+C
+java:S1604M"(Make this anonymous inner class a lambda(êþµ–øÿÿÿÿ
+q
+java:S1450*"VRemove the "toolBar" field and declare it as a local variable in the relevant methods.(¸«¥‰ûÿÿÿÿ
+—
+java:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+—
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+y
+java:S3252o"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(ù·¦ýÿÿÿÿ
+E
+java:S1874q"/Remove this use of "execute"; it is deprecated.(”Ö¬Ï
+M
+java:S1874”"1Remove this use of "AsyncTask"; it is deprecated.(±Úœãøÿÿÿÿ
+a
+java:S1874–"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËÐƒ
+?
+java:S1185–"(Remove this method to simply inherit it.(ËÐƒ
+J
+java:S1874—"4Remove this use of "onPreExecute"; it is deprecated.(”•P
+M
+java:S1854¦"6Remove this useless assignment to local variable "id".(µ˜×á
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÐŸ›
+>	java:S108¡")Either remove or fill this block of code.(§–‰%
+v
+java:S3252¦"_Use static access with "android.provider.ContactsContract$RawContactsColumns" for "CONTACT_ID".(µ˜×á
+u
+java:S3252§"^Use static access with "android.provider.ContactsContract$ContactsColumns" for "DISPLAY_NAME".(¢Õ§ø
+?	java:S108´")Either remove or fill this block of code.(·˜ÀŒ
+f
+java:S1874Â"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û¶…óøÿÿÿÿ
+L
+java:S1874Ã"5Remove this use of "onPostExecute"; it is deprecated.(¹ï•é
+>
+java:S1481¦"'Remove this unused "id" local variable.(µ˜×á

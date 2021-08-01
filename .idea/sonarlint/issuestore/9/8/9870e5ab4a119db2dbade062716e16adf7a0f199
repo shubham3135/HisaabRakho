@@ -1,0 +1,15 @@
+
+>
+java:S1604-"(Make this anonymous inner class a lambda(Ö¹™º
+G
+java:S1874)",Remove this use of "Date"; it is deprecated.(´çÜùÿÿÿÿ
+G
+java:S1659D",Declare "transactionBal" on a separate line.(ËÛ”Ñûÿÿÿÿ
+C
+java:S1659D"(Declare "amountGave" on a separate line.(ËÛ”Ñûÿÿÿÿ
+B
+java:S1659D"'Declare "amountGot" on a separate line.(ËÛ”Ñûÿÿÿÿ
+D
+java:S3398c".Move this method into "TransactionViewHolder".(¢×Àã
+I
+java:S3398k".Move this method into "TransactionViewHolder".(ı¬ÒÚşÿÿÿÿ

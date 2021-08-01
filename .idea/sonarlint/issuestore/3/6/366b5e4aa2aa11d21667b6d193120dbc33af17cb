@@ -1,0 +1,64 @@
+
+h
+java:S1192ê"LDefine a constant instead of duplicating this literal " in total. " 4 times.(Êë»ÿÿÿÿÿ
+“
+java:S1192ë"|Define a constant instead of duplicating this literal "If you think this transaction is wrong come and beat me up." 4 times.(òäèŒ
+>
+java:S1604‹"(Make this anonymous inner class a lambda(ı‰<
+D
+java:S1604¡"(Make this anonymous inner class a lambda(İºèÕşÿÿÿÿ
+D
+java:S1604§"(Make this anonymous inner class a lambda(äåµ•ÿÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(Ì‹ï¨úÿÿÿÿ
+D
+java:S1604Â"(Make this anonymous inner class a lambda(ı½¤ëûÿÿÿÿ
+D
+java:S1604Û"(Make this anonymous inner class a lambda(†¿˜ˆøÿÿÿÿ
+_
+java:S2259Î"HA "NullPointerException" could be thrown; "editIntent" is nullable here.(•è£¿
+E
+java:S1659("*Declare "nameTextView" on a separate line.(œºÓÇûÿÿÿÿ
+E
+java:S1659("*Declare "dateTextView" on a separate line.(œºÓÇûÿÿÿÿ
+D
+java:S1659(")Declare "balTextView" on a separate line.(œºÓÇûÿÿÿÿ
+I
+java:S1659(".Declare "gaveTakeTextView" on a separate line.(œºÓÇûÿÿÿÿ
+K
+java:S1659("0Declare "runningBalTextView" on a separate line.(œºÓÇûÿÿÿÿ
+J
+java:S1659("/Declare "smsDetailTextView" on a separate line.(œºÓÇûÿÿÿÿ
+<
+java:S1659)"&Declare "btnShare" on a separate line.(Ùüâá
+:
+java:S1659+"$Declare "number" on a separate line.( »ıû
+9
+java:S1659+"#Declare "title" on a separate line.( »ıû
+7
+java:S1659+"!Declare "sms" on a separate line.( »ıû
+A
+java:S1659+"+Declare "myProfileName" on a separate line.( »ıû
+C
+java:S1659+"-Declare "myProfileNumber" on a separate line.( »ıû
+<
+java:S1659,"&Declare "totalBal" on a separate line.(Ê¡í¶
+=
+java:S1659,"'Declare "gaveMoney" on a separate line.(Ê¡í¶
+<
+java:S1659,"&Declare "gotMoney" on a separate line.(Ê¡í¶
+6
+java:S1659," Declare "id" on a separate line.(Ê¡í¶
+V	java:S125<"<This block of commented-out lines of code should be removed.(îâ®«üÿÿÿÿ
+F
+java:S1874a"0Remove this use of "getColor"; it is deprecated.(áî¨¨
+E
+java:S1874e"0Remove this use of "getColor"; it is deprecated.(ëîc
+F
+java:S1874j"0Remove this use of "getColor"; it is deprecated.(Øî¤œ
+F
+java:S1874m"0Remove this use of "getColor"; it is deprecated.(ªÙ®†
+G
+java:S1874Å"1Remove this use of "ARGB_4444"; it is deprecated.(òİı>
+V
+java:S1117Ş":Rename "intent" which hides the field declared at line 47.(Òâ¸Íùÿÿÿÿ

@@ -1,0 +1,27 @@
+
+@
+java:S5411X"*Use the primitive boolean expression here.(Ë¿à
+C
+java:S1604U"(Make this anonymous inner class a lambda(ˆ¶ùÒşÿÿÿÿ
+>
+java:S1604c"(Make this anonymous inner class a lambda(Ö¹™º
+t
+java:S1104Š"XMake nameTextView a static final constant or non-public and provide accessors if needed.(¦º¥ùúÿÿÿÿ
+v
+java:S1104Š"ZMake numberTextView a static final constant or non-public and provide accessors if needed.(¦º¥ùúÿÿÿÿ
+u
+java:S1104Š"YMake titleTextView a static final constant or non-public and provide accessors if needed.(¦º¥ùúÿÿÿÿ
+w
+java:S1104Š"[Make alreadyCustomer a static final constant or non-public and provide accessors if needed.(¦º¥ùúÿÿÿÿ
+l
+java:S1450!"VRemove the "contact" field and declare it as a local variable in the relevant methods.(Â‰¸ş
+Q
+java:S1117+";Rename "contact" which hides the field declared at line 33.(×ç÷î
+F
+java:S1874f"1Remove this use of "ARGB_4444"; it is deprecated.(òİı>
+H
+java:S1659Š",Declare "numberTextView" on a separate line.(¦º¥ùúÿÿÿÿ
+G
+java:S1659Š"+Declare "titleTextView" on a separate line.(¦º¥ùúÿÿÿÿ
+I
+java:S1659Š"-Declare "alreadyCustomer" on a separate line.(¦º¥ùúÿÿÿÿ

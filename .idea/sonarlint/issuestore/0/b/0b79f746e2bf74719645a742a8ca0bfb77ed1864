@@ -1,0 +1,31 @@
+
+g	java:S101I"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô­ÿùúÿÿÿÿ
+b	java:S101X"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñµ‰Ã
+g	java:S101g"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”…æ¦ùÿÿÿÿ
+b	java:S101u"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ò¤µÌ
+c	java:S101„"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŠÑôì
+h	java:S101”"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ŠµŽøÿÿÿÿ
+E
+java:S1874("/Remove this use of "execute"; it is deprecated.(›×ÄÇ
+J
+java:S1874-"/Remove this use of "execute"; it is deprecated.(µ”½¼ûÿÿÿÿ
+J
+java:S18742"/Remove this use of "execute"; it is deprecated.(Àÿï’ûÿÿÿÿ
+E
+java:S18748"/Remove this use of "execute"; it is deprecated.(ºßÀÚ
+J
+java:S1874="/Remove this use of "execute"; it is deprecated.(Á²„×úÿÿÿÿ
+J
+java:S1874F"/Remove this use of "execute"; it is deprecated.(–é±¢üÿÿÿÿ
+L
+java:S1874I"1Remove this use of "AsyncTask"; it is deprecated.(ô­ÿùúÿÿÿÿ
+G
+java:S1874X"1Remove this use of "AsyncTask"; it is deprecated.(Ñµ‰Ã
+L
+java:S1874g"1Remove this use of "AsyncTask"; it is deprecated.(”…æ¦ùÿÿÿÿ
+G
+java:S1874u"1Remove this use of "AsyncTask"; it is deprecated.(ò¤µÌ
+H
+java:S1874„"1Remove this use of "AsyncTask"; it is deprecated.(ŠÑôì
+M
+java:S1874”"1Remove this use of "AsyncTask"; it is deprecated.(·ŠµŽøÿÿÿÿ

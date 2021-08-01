@@ -1,0 +1,43 @@
+
+>
+java:S1604V"(Make this anonymous inner class a lambda(µß·Ã
+>
+java:S1604b"(Make this anonymous inner class a lambda(ğİ¤
+>
+java:S1604o"(Make this anonymous inner class a lambda(èò¸
+C
+java:S1604"(Make this anonymous inner class a lambda(‘ÙÈÔúÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(åİ±‚ùÿÿÿÿ
+A
+java:S1128&"+Remove this unused import 'java.util.Date'.(¸…¼ü
+E
+java:S1128%"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+m
+java:S1128"XRemove this unused import 'com.shubhamkumarwinner.hisaabrakho.database.tables.Customer'.(İÙšr
+w
+java:S1450,"aRemove the "mCustomerViewModel" field and declare it as a local variable in the relevant methods.(ğºáÆ
+
+java:S1450+"dRemove the "mTransactionViewModel" field and declare it as a local variable in the relevant methods.(Ú­‚şÿÿÿÿ
+=
+java:S1659/"'Declare "titleText" on a separate line.(‹ÿ†ê
+@
+java:S1659/"*Declare "giveTakeText" on a separate line.(‹ÿ†ê
+B
+java:S1659/",Declare "giveTakeAmount" on a separate line.(‹ÿ†ê
+?
+java:S16590"$Declare "gotBtn" on a separate line.(ú—ƒàıÿÿÿÿ
+Q
+java:S1854D";Remove this useless assignment to local variable "balance".(¢ûÉÚ
+>	java:S108")Either remove or fill this block of code.(ÅâÃm
+L
+java:S1874•"0Remove this use of "getColor"; it is deprecated.(­âÅüÿÿÿÿ
+G
+java:S1874š"0Remove this use of "getColor"; it is deprecated.(ÜÂ©á
+R	java:S125É"<This block of commented-out lines of code should be removed.(©í²Ë
+M
+java:S1874ò"1Remove this use of "ARGB_4444"; it is deprecated.(Ş­ßÓùÿÿÿÿ
+B
+java:S1481D",Remove this unused "balance" local variable.(¢ûÉÚ
+L
+java:S1068,"6Remove this unused "mCustomerViewModel" private field.(ğºáÆ

@@ -2,11 +2,12 @@ package com.shubhamkumarwinner.hisaabrakho.database.repository;
 
 import android.app.Application;
 import android.os.AsyncTask;
+
 import androidx.lifecycle.LiveData;
+
 import com.shubhamkumarwinner.hisaabrakho.database.CustomerDao;
 import com.shubhamkumarwinner.hisaabrakho.database.CustomerRoomDatabase;
 import com.shubhamkumarwinner.hisaabrakho.database.tables.Customer;
-import com.shubhamkumarwinner.hisaabrakho.database.tables.CustomerTransaction;
 import com.shubhamkumarwinner.hisaabrakho.database.tables.MyProfile;
 
 import java.util.List;
